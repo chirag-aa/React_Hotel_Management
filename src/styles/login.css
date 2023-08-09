@@ -1,0 +1,43 @@
+.form-control{
+    width: 70%
+}
+.form{
+    width: 100%;
+    margin-left: 40px;
+
+}
+.loginImg{
+    width: 89%;
+    border-radius: 5%;
+    margin-left: 16px;
+    margin-top: 18px;
+}
+
+.signupRedirect{
+    text-decoration: none;
+}
+.loginComponent{
+    display: flex;
+    padding: 3%;
+    align-items: center;
+}
+.formClass{
+    width: 70%;
+}
+.form-group{
+  padding: 2%;
+}
+.form-check{
+    padding: 2%;
+    margin-left: 8px;
+}
+.btn{
+    margin-top: 7px;
+    margin-left: 13px;
+}
+.heading{
+    margin-left: 8px;
+}
+.bi{
+    margin-right: 6px;
+}

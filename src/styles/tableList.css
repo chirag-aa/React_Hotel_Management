@@ -1,0 +1,23 @@
+.card{
+    width: 80%;
+   
+}
+
+.gridDisplay{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    row-gap: 20px;
+    padding: 15px;
+}
+/* .btn{
+  margin-left: 2px;
+  padding: auto;
+} */
+.alert{
+  width: 40%;
+  margin-top: 10px;
+  margin-left: 30%;
+}
+.SignInMessage{
+  margin-left: 3%;
+}

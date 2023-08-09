@@ -1,0 +1,33 @@
+.container1{
+    border: 1px solid rgb(211, 242, 227);
+    align-content: center;
+    justify-items: center;
+    width: 40%;
+    margin-top: 10%;
+    background-color: rgb(226, 243, 243);
+    border-radius: 10%;
+    margin-left: 25%;
+    
+}
+
+.successImg {
+    margin-top: -16%;
+    margin-left: 35%;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.headingText {
+    margin-top: 1%;
+    margin-left: 35%;
+}
+.popupText {
+    margin-left: 32%;
+}
+.btn1{
+    background-color: rgb(65, 248, 65);
+    border: 20px;
+    width: 50%;
+    margin-left: 25%;
+    padding: 5px;
+}

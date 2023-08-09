@@ -1,0 +1,17 @@
+.nav-corner{
+    display: flex;
+    margin-right: 2%;
+    padding: auto;
+}
+.nav-item :hover{
+    background-color: rgb(212, 224, 227);
+    border-radius: 80%;
+}
+
+.displayOfLogIn{
+    display: flex;
+}
+
+#PersonName{
+    margin-top: 5%;
+}
